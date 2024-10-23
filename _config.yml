@@ -2,3 +2,14 @@ title: Taufiq Islam Protick
 logo: /assets/images/TaufiqIslamProtick.jpg
 theme: jekyll-theme-minimal
 description: Hi, I am Taufiq, a doctoral student at NC State University specializing in natural language processing and usable security and privacy.
+
+# Add the navigation links
+navigation:
+  - title: "Education"
+    url: /education
+  - title: "Work Experience"
+    url: /work-experience
+  - title: "Publications"
+    url: /publications
+  - title: "Coding Projects"
+    url: /coding-projects
