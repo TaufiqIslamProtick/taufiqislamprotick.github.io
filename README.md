@@ -23,6 +23,12 @@
 - Compared BERT scores of three NLP models for summarizing Amazon product reviews.
   ![bert](/assets/images/bert.png)
 
+## Research Projects
+
+- Fine-tuning an LLM to Mine Security and Privacy Concerns in Online Product Reviews
+- A Qualitative Analysis build to elicit Security and Privacy Concerns from Online Product Reviews
+-
+
 ## Work Experience
 
 **Graduate Teaching Assistant (_August 2019 - Present_)**
