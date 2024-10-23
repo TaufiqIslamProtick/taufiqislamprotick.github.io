@@ -5,7 +5,7 @@
 
 ## Publication
 
-- **Protick T.I**., Sabir A., Abhinaya S., Bartlett A., Das A., **"Unveiling Users’ Security and Privacy Concerns Regarding Smart Home IoT Products from Online Reviews"**
+- **Protick T.I**., Sabir A., Abhinaya S., Bartlett A., Das A., "Unveiling Users’ Security and Privacy Concerns Regarding Smart Home IoT Products from Online Reviews"
 
 ## Work Experience
 
