@@ -7,6 +7,20 @@
 
 - **Protick T.I**., Sabir A., Abhinaya S., Bartlett A., Das A., "Unveiling Users’ Security and Privacy Concerns Regarding Smart Home IoT Products from Online Reviews" In [ACM Journal on Computing and Sustainable Societies, 2024](https://dl.acm.org/doi/abs/10.1145/3685929#) [PDF](https://dl.acm.org/doi/pdf/10.1145/3685929)
 
+## Exploratory Data Analysis Projects
+
+### Time Series Forecasting on FAO Pesticide Dataset
+
+[GitHub](https://github.com/TaufiqIslamProtick/pesticide-data-analysis)
+
+- Developed an ARIMA model for forecasting the g/Int$ value (grams of pesticides used for a single dollar revenue from agriculture) using historical data from 1990-2021.
+
+### BERT Score Comparison of Three NLP Models on Product Review Summarization
+
+[GitHub](https://github.com/TaufiqIslamProtick/text-summarizer)
+
+- Compared BERT scores of three NLP models for summarizing Amazon product reviews.
+
 ## Work Experience
 
 **Graduate Teaching Assistant (_August 2019 - Present_)**
@@ -30,17 +44,3 @@
 **Junior Engineer (_March 2017 - May 2017_)**
 
 - Worked as an iOS developer on a project for an app that sells users' artwork.
-
-## Exploratory Data Analysis Projects
-
-### Time Series Forecasting on FAO Pesticide Dataset
-
-[GitHub](https://github.com/TaufiqIslamProtick/pesticide-data-analysis)
-
-- Developed an ARIMA model for forecasting the g/Int$ value (grams of pesticides used for a single dollar revenue from agriculture) using historical data from 1990-2021.
-
-### BERT Score Comparison of Three NLP Models on Product Review Summarization
-
-[GitHub](https://github.com/TaufiqIslamProtick/text-summarizer)
-
-- Compared BERT scores of three NLP models for summarizing Amazon product reviews.
