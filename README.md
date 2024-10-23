@@ -14,12 +14,14 @@
 [GitHub](https://github.com/TaufiqIslamProtick/pesticide-data-analysis)
 
 - Developed an ARIMA model for forecasting the g/Int$ value (grams of pesticides used for a single dollar revenue from agriculture) using historical data from 1990-2021.
+  ![arima](/assets/images/arima.png)
 
 ### BERT Score Comparison of Three NLP Models on Product Review Summarization
 
 [GitHub](https://github.com/TaufiqIslamProtick/text-summarizer)
 
 - Compared BERT scores of three NLP models for summarizing Amazon product reviews.
+  ![bert](/assets/images/bert.png)
 
 ## Work Experience
 
