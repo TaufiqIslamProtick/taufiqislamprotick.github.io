@@ -3,7 +3,7 @@
 - **Ph.D., Computer Science** | NC State University (_Present_)
 - **B.Sc., Computer Science** | Bangladesh University of Engineering and Technology (_February 2017_)
 
-## Publications
+## Publication
 
 - **Protick T.I**., Sabir A., Abhinaya S., Bartlett A., Das A., **"Unveiling Users’ Security and Privacy Concerns Regarding Smart Home IoT Products from Online Reviews"**
 
