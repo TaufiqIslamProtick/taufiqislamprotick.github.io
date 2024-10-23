@@ -1,6 +1,7 @@
 # Taufiq Islam Protick
 
 ### Education
+this is edu section
 
 ### Work Experience
 
