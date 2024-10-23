@@ -1,6 +1,6 @@
-# Taufiq Islam Protick
-
 ![Taufiq Islam Protick's Image](/assets/images/TaufiqIslamProtick.jpg)
+
+# Taufiq Islam Protick
 
 ### Education
 
