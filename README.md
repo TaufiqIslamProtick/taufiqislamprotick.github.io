@@ -25,17 +25,29 @@
 
 ## Research Projects
 
-### Fine-tuning an LLM to Mine Security and Privacy Concerns in Online Product Reviews
+### Leverage an LLM to Mine Security and Privacy Concerns in Online Product Reviews
+
+- Leveraged the generative power of an LLM to automate the task of reading and analyzing product reviews to elicit concerns.
 
 ### A Qualitative Analysis build to elicit Security and Privacy Concerns from Online Product Reviews
 
+- Designed a three-step coding process to analyze online product reviews to elicit security and privacy concerns from online product reviews.
+
 ### Analysis of a Simple Low-cost Intervention's Impact on Retention of Women in Computer Science
+
+- Designed a crosswalk for instructors' ease in sending simple low-cost intervention messages to women in collegiate level CS courses. Prepared questionnaire in Qualtrics for gathering survey responses.
 
 ### Time-Series Cluster Analysis of Students' Learning Progression in a Game-based Learning Environment, ENGAGE
 
+- Partition students into clusters based on the time series data which are performance traces of middle school students in an interactive game-based learning platform named ENGAGE.
+
 ### Gaining Insights into Programming Comprehension through Cluster Techniques
 
+- Utilized Java's AST library to look at Java code patterns of correct and incorrect submissions of Java quizzes.
+
 ### Predicting Secondary Structure of Proteins with Neural Networks
+
+- Utilized an unweighted and a weighted voting method with four models: RaptorX-Property, SPIDER2, Porter 4.0, and Jpred4 to predict the secondary structure of proteins.
 
 ## Work Experience
 
