@@ -44,6 +44,6 @@
 
 ### BERT Score Comparison of Three NLP Models on Product Review Summarization
 
-[GitHub](https://github.com/TaufiqIslamProtick/pesticide-data-analysis)
+[GitHub](https://github.com/TaufiqIslamProtick/text-summarizer)
 
 - Compared BERT scores of three NLP models for summarizing Amazon product reviews.
