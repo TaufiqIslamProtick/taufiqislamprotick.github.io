@@ -20,14 +20,22 @@
 
 [GitHub](https://github.com/TaufiqIslamProtick/text-summarizer)
 
-- Compared BERT scores of three NLP models for summarizing Amazon product reviews.
+- Developed a text summarization system using BART, PEGASUS, and T5 models on 1000 Amazon reviews, evaluated using BERTScore with results showing varying levels of semantic similarity (BART: 0.906, PEGASUS: 0.9059, and T5: 0.84).
   ![bert](/assets/images/bert.png)
 
 ## Research Projects
 
-- Fine-tuning an LLM to Mine Security and Privacy Concerns in Online Product Reviews
-- A Qualitative Analysis build to elicit Security and Privacy Concerns from Online Product Reviews
--
+### Fine-tuning an LLM to Mine Security and Privacy Concerns in Online Product Reviews
+
+### A Qualitative Analysis build to elicit Security and Privacy Concerns from Online Product Reviews
+
+### Analysis of a Simple Low-cost Intervention's Impact on Retention of Women in Computer Science
+
+### Time-Series Cluster Analysis of Students' Learning Progression in a Game-based Learning Environment, ENGAGE
+
+### Gaining Insights into Programming Comprehension through Cluster Techniques
+
+### Predicting Secondary Structure of Proteins with Neural Networks
 
 ## Work Experience
 
