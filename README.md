@@ -12,13 +12,10 @@
 **Graduate Teaching Assistant (_August 2019 - Present_)**
 
 - Worked as a TA for Algorithms (current), C and Software Tools, and Operating Systems.
-- Hosted office hours, graded homework, and proctored exams.
 
 **Summer Instructor (_Summer 2022-2024_)**
 
-- Delivered lectures and facilitated discussions.
-- Designed and administered quizzes to assess student comprehension of course material.
-- Prepared, proctored, and graded exams to evaluate academic performance and ensure alignment with course objectives.
+- Worked for three years as a Summer instructor for Operating Systems class.
 
 **Graduate Research Assistant (_July 2020 - May 2021_)**
 
