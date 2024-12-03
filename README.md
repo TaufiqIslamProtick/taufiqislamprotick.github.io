@@ -5,7 +5,7 @@
 
 ## Publication
 
-- **Protick T.I**., Sabir A., Abhinaya S., Bartlett A., Das A., "Unveiling Users’ Security and Privacy Concerns Regarding Smart Home IoT Products from Online Reviews" In [ACM Journal on Computing and Sustainable Societies, 2024](https://dl.acm.org/doi/abs/10.1145/3685929#) [PDF](https://dl.acm.org/doi/pdf/10.1145/3685929)
+- **Protick T.I**., Sabir A., Abhinaya S., Bartlett A., Das A., "Unveiling Users’ Security and Privacy Concerns Regarding Smart Home IoT Products from Online Reviews" In [ACM Journal on Computing and Sustainable Societies, 2024](https://dl.acm.org/doi/abs/10.1145/3685929#) [PDF](https://dl.acm.org/doi/pdf/10.1145/3685929?casa_token=iQ57JySBp8sAAAAA:A9B5Z_RwbAhM3Vn8V6JuX8-JBwuVYKIvM6Eoa2n2soekVY2suO-avPSAGk4yKL9tyfHVxGLiilOwow)
 
 ## Exploratory Data Analysis Projects
 
